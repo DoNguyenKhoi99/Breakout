@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "6f6b2631-4cd0-43ef-bc3a-a9c11755cda0",
+  "uuid": "79acfb71-11ec-453a-b53f-4694a0c697aa",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -9,10 +9,10 @@
   "packable": true,
   "platformSettings": {},
   "subMetas": {
-    "sound_on": {
+    "music_on": {
       "ver": "1.0.4",
-      "uuid": "a942fc86-4a65-4316-af62-809638587cc9",
-      "rawTextureUuid": "6f6b2631-4cd0-43ef-bc3a-a9c11755cda0",
+      "uuid": "c4ad00ea-a070-4aa4-9bab-227b9512fc1e",
+      "rawTextureUuid": "79acfb71-11ec-453a-b53f-4694a0c697aa",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

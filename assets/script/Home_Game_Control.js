@@ -5,9 +5,8 @@ cc.Class({
 
     },
 
-    onLoad() {
-
-        cc.game.addPersistRootNode(this.node);
-
+    playGame() {
+        cc.director.loadScene("GAME_PLAY");
     },
+
 });
